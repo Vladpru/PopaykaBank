@@ -1,0 +1,3 @@
+2025-12-11 13:30:25 | Sender: And | Receiver: Liza | Amount: 1113 | SenderBal: 0 | RecieverBal: 2000
+2025-12-11 13:36:49 | Sender: Liza | Receiver: And | Amount: 1000 | SenderBal: 1000 | RecieverBal: 1000
+2025-12-11 14:39:49 | Sender: And | Receiver: Liza | Amount: 124 | SenderBal: 876 | RecieverBal: 1124
