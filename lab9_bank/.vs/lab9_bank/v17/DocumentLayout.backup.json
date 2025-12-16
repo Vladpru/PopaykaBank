@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Registration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\Registration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ModernUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\ModernUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ExchangeRatesForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\ExchangeRatesForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ExchangeRatesForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\ExchangeRatesForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ThemeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\ThemeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\History.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\History.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Registration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\Registration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\LogIn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\LogIn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\History.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\History.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\BankService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\BankService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\NetworkClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8326676B-7EA9-1EA4-D27B-7A1594C7AC4E}|lab9_bank\\lab9_bank.vcxproj|solutionrelative:lab9_bank\\NetworkClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 169,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\MyForm.h",
+              "RelativeDocumentMoniker": "lab9_bank\\MyForm.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\MyForm.h",
+              "RelativeToolTip": "lab9_bank\\MyForm.h",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:37:21.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModernUI.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ModernUI.h",
+              "RelativeDocumentMoniker": "lab9_bank\\ModernUI.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ModernUI.h",
+              "RelativeToolTip": "lab9_bank\\ModernUI.h",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAmwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T14:26:07.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeRatesForm.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ExchangeRatesForm.h",
+              "RelativeDocumentMoniker": "lab9_bank\\ExchangeRatesForm.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ExchangeRatesForm.h",
+              "RelativeToolTip": "lab9_bank\\ExchangeRatesForm.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T14:08:54.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRatesForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ExchangeRatesForm.h",
+              "RelativeDocumentMoniker": "lab9_bank\\ExchangeRatesForm.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ExchangeRatesForm.h [Design]",
+              "RelativeToolTip": "lab9_bank\\ExchangeRatesForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T14:08:47.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemeManager.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ThemeManager.h",
+              "RelativeDocumentMoniker": "lab9_bank\\ThemeManager.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\ThemeManager.h",
+              "RelativeToolTip": "lab9_bank\\ThemeManager.h",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T14:05:01.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Transaction.h",
+              "RelativeDocumentMoniker": "lab9_bank\\Transaction.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Transaction.h",
+              "RelativeToolTip": "lab9_bank\\Transaction.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T13:20:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\MyForm.h",
+              "RelativeDocumentMoniker": "lab9_bank\\MyForm.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\MyForm.h [Design]",
+              "RelativeToolTip": "lab9_bank\\MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:49:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Registration.h",
+              "RelativeDocumentMoniker": "lab9_bank\\Registration.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Registration.h [Design]",
+              "RelativeToolTip": "lab9_bank\\Registration.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:42:34.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "History.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\History.h",
+              "RelativeDocumentMoniker": "lab9_bank\\History.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\History.h",
+              "RelativeToolTip": "lab9_bank\\History.h",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:38:33.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Registration.h",
+              "RelativeDocumentMoniker": "lab9_bank\\Registration.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\Registration.h",
+              "RelativeToolTip": "lab9_bank\\Registration.h",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:36:27.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogIn.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\LogIn.h",
+              "RelativeDocumentMoniker": "lab9_bank\\LogIn.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\LogIn.h",
+              "RelativeToolTip": "lab9_bank\\LogIn.h",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:35:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BankService.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\BankService.h",
+              "RelativeDocumentMoniker": "lab9_bank\\BankService.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\BankService.h",
+              "RelativeToolTip": "lab9_bank\\BankService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:35:18.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NetworkClient.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\NetworkClient.h",
+              "RelativeDocumentMoniker": "lab9_bank\\NetworkClient.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\NetworkClient.h",
+              "RelativeToolTip": "lab9_bank\\NetworkClient.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:32:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\main.cpp",
+              "RelativeDocumentMoniker": "lab9_bank\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\main.cpp",
+              "RelativeToolTip": "lab9_bank\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T14:42:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "History.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\History.h",
+              "RelativeDocumentMoniker": "lab9_bank\\History.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab9\\lab9_bank\\lab9_bank\\History.h [Design]",
+              "RelativeToolTip": "lab9_bank\\History.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:18:06.135Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

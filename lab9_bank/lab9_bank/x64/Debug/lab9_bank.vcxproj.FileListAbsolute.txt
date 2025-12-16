@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9_bank.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9bank.History.resources
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9bank.LogIn.resources
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9bank.MyForm.resources
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9bank.Registration.resources
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9bank.Transaction.resources
+C:\Users\user\source\repos\lab9\lab9_bank\lab9_bank\x64\Debug\lab9_bank.vcxproj.GenerateResource.cache

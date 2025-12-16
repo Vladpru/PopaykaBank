@@ -1,0 +1,90 @@
+  lab9bank.History.resources - Embedded, ContainedInManifestFile, 
+  lab9bank.LogIn.resources - Embedded, ContainedInManifestFile, 
+  lab9bank.MyForm.resources - Embedded, ContainedInManifestFile, 
+  lab9bank.Registration.resources - Embedded, ContainedInManifestFile, 
+  lab9bank.Transaction.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly lab9_bank, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class NetworkClient: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Connect(String, Int32): PrivateScope, Public, Static, HideBySig
+    SendRequest(String): PrivateScope, Public, Static, HideBySig
+    Disconnect(): PrivateScope, Public, Static, HideBySig
+Class BankService: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Login(String, String): PrivateScope, Public, Static, HideBySig
+    Register(String, String): PrivateScope, Public, Static, HideBySig
+    GetBalance(): PrivateScope, Public, Static, HideBySig
+    GetHistory(): PrivateScope, Public, Static, HideBySig
+    Transfer(String, String): PrivateScope, Public, Static, HideBySig
+    GetExchangeRates(): PrivateScope, Public, Static, HideBySig
+Class ModernUI.RoundedPanel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Panel
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Drawing.Color BorderColor : Public
+    Int32 Radius : Public
+Class ModernUI.ModernButton: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Button
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 Radius : Public
+    System.Drawing.Color PrimaryColor : Public
+    Boolean IsOutlined : Public
+Class ModernUI.ModernTextBox: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Drawing.Color BorderColor : Public
+  Properties:
+    Boolean UseSystemPasswordChar 'get set' : 
+    System.String Text 'get set' : 
+  Methods:
+    get_Text(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    set_Text(String): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_UseSystemPasswordChar(): PrivateScope, Public, HideBySig, SpecialName
+    set_UseSystemPasswordChar(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+Class ThemeManager: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Drawing.Color PrimaryDark : Public, Static
+    System.Drawing.Color PrimaryLight : Public, Static
+    System.Drawing.Color SecondaryBg : Public, Static
+    System.Drawing.Color CardBg : Public, Static
+    System.Drawing.Color TextDark : Public, Static
+    System.Drawing.Color TextLight : Public, Static
+  Methods:
+    Apply(Form): PrivateScope, Public, Static, HideBySig
+Class lab9bank.Transaction: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class lab9bank.History: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class lab9bank.ExchangeRatesForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class lab9bank.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class lab9bank.Login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class lab9bank.Registration: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
